@@ -52,7 +52,7 @@ labels = labels.split(',')
 count = 0
 
 if __name__ == '__main__':
-    img_dir = "F:/python/TensorFlow/mnistasjpg/trainingSample/"
+    img_dir = "/trainingSample"
     num_img = 100
     read_img_path(img_dir, num_img)
 
